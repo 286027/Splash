@@ -41,9 +41,9 @@ table {
    box-sizing: border-box;
 }
 body {
-    background-color: black;
+    
     background-image: url(img/background-gba.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: 100% auto;
     background-position: top;
     padding: 100px 0 0 0;
